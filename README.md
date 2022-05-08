@@ -15,5 +15,5 @@ go build findlink.go
 
 4.
 ./findlink -links links.geojson -target 127.027268062,37.499212063
-로 
+로 프로그램 
 
